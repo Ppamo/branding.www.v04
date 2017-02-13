@@ -28,9 +28,9 @@
      showgrid="false"
      inkscape:current-layer="page1"
      inkscape:document-units="px"
-     inkscape:cy="401.64891"
-     inkscape:cx="295.1863"
-     inkscape:zoom="1"
+     inkscape:cy="524.57795"
+     inkscape:cx="621.18111"
+     inkscape:zoom="0.7071068"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -196,7 +196,7 @@
            y="244.50504"
            style="text-align:start;text-anchor:start"
            ry="0" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
          id="flowPara4404">I enjoy the design and implementation of technological projects, especially over the Internet, always generating products and services user friendly and useful.</flowPara></flowRoot>    <flowRoot
        transform="matrix(2.3089659,0,0,2.7963325,219.92183,289.14423)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -514,7 +514,7 @@
          xml:space="preserve"
          id="flowRoot6493-8-2-6-50"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(81.896729,14.825527)"><flowRegion
+         transform="translate(81.896729,-103.17447)"><flowRegion
            id="flowRegion6495-4-8-2-0"><rect
              id="rect6497-3-6-2-11"
              width="629.64252"
@@ -532,7 +532,7 @@
          xml:space="preserve"
          id="flowRoot6493-8-2-6-9-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(81.896729,331.62078)"><flowRegion
+         transform="translate(81.896729,213.62078)"><flowRegion
            id="flowRegion6495-4-8-2-9-8"><rect
              id="rect6497-3-6-2-4-5"
              width="635.03052"
@@ -550,7 +550,7 @@
          xml:space="preserve"
          id="flowRoot6493-8-2-6-9-6-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(81.391846,153.28506)"><flowRegion
+         transform="translate(81.391846,35.28506)"><flowRegion
            id="flowRegion6495-4-8-2-9-5-5"><rect
              id="rect6497-3-6-2-4-6-8"
              width="636.02039"
@@ -588,7 +588,7 @@
          xml:space="preserve"
          id="flowRoot6493-8-2-6-9-0-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(82,487.39898)"><flowRegion
+         transform="translate(82,369.39898)"><flowRegion
            id="flowRegion6495-4-8-2-9-8-6"><rect
              id="rect6497-3-6-2-4-5-1"
              width="631.07111"
@@ -602,25 +602,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
            id="flowPara11943-8">ARMPRO Limitada - April 2004 / March 2006</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
-           id="flowPara11945-8">I worked designing and developing Web systems over Microsoft, also managing the networking and servers over Linux.   One of the projects developed was a Web system for rapid development (RAD), written mostly on Javascript, using .NET to access a SQL Server 2005 database.   Over this framework we developed some projects for live stock management.   Related with the system administration, I worked mostly setting up internal services using Red hat Linux and VMWare.</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot6493-8-2-6-9-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(80.876953,-103.58515)"><flowRegion
-           id="flowRegion6495-4-8-2-9-9"><rect
-             id="rect6497-3-6-2-4-58"
-             width="635.04865"
-             height="119.48944"
-             x="-15"
-             y="244.50504"
-             style="text-align:start;text-anchor:start"
-             ry="0" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
-           id="flowPara6328-75">External Software Engineer</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
-           id="flowPara10833-2">Mercatus Chile SpA - April 2010 / April 2012</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
-           id="flowPara10831-3">I improved and developed new features to the running platform, working mostly in .NET, using Microsoft SQL Server 2005/2008 and reporting services.</flowPara></flowRoot>    </g>
+           id="flowPara11945-8">I worked designing and developing Web systems over Microsoft, also managing the networking and servers over Linux.   One of the projects developed was a Web system for rapid development (RAD), written mostly on Javascript, using .NET to access a SQL Server 2005 database.   Over this framework we developed some projects for live stock management.   Related with the system administration, I worked mostly setting up internal services using Red hat Linux and VMWare.</flowPara></flowRoot>    </g>
     <g
        style="display:none"
        id="page2">
@@ -681,7 +663,7 @@
            id="flowPara10805"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">External Evaluator for Innovation Projects</flowPara><flowPara
            id="flowPara10813"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">March 2015 / Present - Corporación de Desarrollo Tecnológico Bienes de Capital</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">Corporación de Desarrollo Tecnológico Bienes de Capital - March 2015 / Present</flowPara><flowPara
            id="flowPara10772"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">I evaluate proposals for technological projects submitted to any CORFO contest, analizing its technical, financial and commercial merit, to determine the viability of it.</flowPara></flowRoot>      <flowRoot
          transform="translate(82,53.510829)"
@@ -699,7 +681,7 @@
            id="flowPara6285-9-0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start">Software Engineer</flowPara><flowPara
            id="flowPara10817"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start">August 2013 / December 2016 - Schibsted Chile SpA</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start">Schibsted Chile SpA - August 2013 / December 2016</flowPara><flowPara
            id="flowPara10809"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start"><flowSpan
    id="flowSpan16013"
