@@ -27,9 +27,9 @@
      showgrid="false"
      inkscape:current-layer="current_page"
      inkscape:document-units="px"
-     inkscape:cy="450.40687"
-     inkscape:cx="221.30659"
-     inkscape:zoom="0.75"
+     inkscape:cy="751.15862"
+     inkscape:cx="233.55751"
+     inkscape:zoom="1.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
        xml:space="preserve"
        id="flowRoot3336-5-4-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(2.3089659,0,0,2.7963325,1.4046515,43.747483)"><flowRegion
+       transform="matrix(2.3089659,0,0,2.7963325,1.4046515,31.747483)"><flowRegion
          id="flowRegion3338-5-1-3"><rect
            id="rect3340-4-2-0"
            width="182.06918"
@@ -257,7 +257,7 @@
            style="font-weight:bold;font-size:7.5px;text-align:justify;text-anchor:start">BizSpark, Visual Studio .Net, SugarCRM, SVN, Redmine</flowPara></flowRoot>    </g>
     <g
        id="g4930"
-       transform="translate(0,107.14213)">
+       transform="translate(0,125.14213)">
       <flowRoot
          xml:space="preserve"
          id="flowRoot6493-8-2-6-5-2"
@@ -292,12 +292,12 @@
            id="flowPara4683">API, RESTful, Linux, Postgresql, PHP, Python, Javascript, Golang, Redis, RabbitMQ, C, Git, Jenkins, Selenium, Github, Continuous Integration, Integración Continua, Docker, NodeJS, MongoDB, Scrum, Kanban, Transbank, Leankit</flowPara></flowRoot>    </g>
     <g
        id="g4918"
-       transform="translate(-4.4531251e-7,94.403196)">
+       transform="translate(-4.4531251e-7,94.4032)">
       <flowRoot
          xml:space="preserve"
          id="flowRoot6493-8-2-6-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(80.960947,195.79125)"><flowRegion
+         transform="translate(80.960947,215.79125)"><flowRegion
            id="flowRegion6495-4-8-2-99"><rect
              id="rect6497-3-6-2-1"
              width="631.75281"
@@ -311,7 +311,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
            id="flowPara10813">Corporación de Desarrollo Tecnológico Bienes de Capital - Marzo 2015 / Diciembre 2016</flowPara><flowPara
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           id="flowPara10772">Evalúo proyectos que participan en los distintos concursos de innovación de CORFO, calificando su mérito técnico, financiero y comercial, para determinar su viabilidad y apego a las bases del concurso.</flowPara></flowRoot>      <flowRoot
+           id="flowPara10772">Evalúo proyectos que participan en los distintos concursos de innovación de CORFO, calificando su mérito técnico, financiero y comercial, para determinar su viabilidad y apego a las bases.</flowPara></flowRoot>      <flowRoot
          transform="translate(3.5384615,-278.5282)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4709"
@@ -325,42 +325,38 @@
              id="rect4713" /></flowRegion><flowPara
            style="font-weight:bold;font-size:7.5px;text-align:justify;text-anchor:start"
            id="flowPara4715">CORFO</flowPara></flowRoot>    </g>
-    <g
-       id="g5038"
-       transform="translate(-0.11535645,-4.0000324)">
-      <flowRoot
-         transform="translate(81.076303,-83.18443)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot5008"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5010"><rect
-             ry="0"
-             style="text-align:start;text-anchor:start"
-             y="244.50504"
-             x="-15"
-             height="129.48944"
-             width="632.85504"
-             id="rect5012" /></flowRegion><flowPara
-           id="flowPara5014"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">Ingeniero de Software Externo</flowPara><flowPara
-           id="flowPara5016"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">IBM - Noviembre 2017 / Presente</flowPara><flowPara
-           id="flowPara5018"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">Participo en el desarrollo de Microservicios, escritos en Java, usando el framework Spring Boot, desplegado en Docker y orquestado con Kubernetes, siguiendo el patrón de arquitectura Backend for Frontend.   Además participo en el diseño de un flujo de desarrollo para el equipo, basado en Gitlab.</flowPara></flowRoot>      <flowRoot
-         transform="translate(3.5384615,-558.5282)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot5020"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5022"><rect
-             style="line-height:100%"
-             y="827.04419"
-             x="63.076923"
-             height="30.000051"
-             width="636.15381"
-             id="rect5024" /></flowRegion><flowPara
-           style="font-weight:bold;font-size:7.5px;text-align:justify;text-anchor:start"
-           id="flowPara5026">Gitlab, Java, Spring Boot, Docker, Kubernetes, API, Restful, Maven, Eclipse</flowPara></flowRoot>    </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5008"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:1px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(80.960947,-113.18446)"><flowRegion
+         id="flowRegion5010"><rect
+           id="rect5012"
+           width="633.79785"
+           height="162.01636"
+           x="-15"
+           y="244.50504"
+           style="text-align:start;text-anchor:start"
+           ry="0" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara5014">Ingeniero de Software Externo</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara5016">IBM - Noviembre 2017 / Presente</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara5018">Participo en el diseño y desarrollo de microservicios escritos en Golang y Java/Spring Boot, desplegados en Docker y orquestado con Kubernetes, siguiendo el patrón de arquitectura Backend for Frontend.   Además participo en el diseño de un flujo de desarrollo para el equipo usando Gitlab, el desarrollo de herramientas para el despliegue de los servicios a la plataforma, y en la puesta a punto de los ambientes de desarrollo, qa y producción de IBM Cloud Private.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5020"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(3.423105,-548.52823)"><flowRegion
+         id="flowRegion5022"><rect
+           id="rect5024"
+           width="636.15381"
+           height="30.000051"
+           x="63.076923"
+           y="827.04419"
+           style="line-height:100%" /></flowRegion><flowPara
+         style="font-weight:bold;font-size:7.5px;text-align:justify;text-anchor:start"
+         id="flowPara3447">Gitlab, Golang, Java, Spring Boot, Docker, Kubernetes, IBM CLoud Private, API, Restful, Maven, Eclipse, RHEL, JMeter</flowPara></flowRoot>  </g>
   <g
      id="other_pages"
      inkscape:groupmode="layer"
