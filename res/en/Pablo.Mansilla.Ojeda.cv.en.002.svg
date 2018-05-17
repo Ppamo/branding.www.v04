@@ -27,8 +27,8 @@
      showgrid="false"
      inkscape:current-layer="current_page"
      inkscape:document-units="px"
-     inkscape:cy="590.01422"
-     inkscape:cx="347.07944"
+     inkscape:cy="797.43221"
+     inkscape:cx="348.02225"
      inkscape:zoom="2.1213203"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -282,7 +282,7 @@
          id="flowPara4844"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">IBM - November 2017 / Present</flowPara><flowPara
          id="flowPara4846"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">I participate in the design and development of microservices wrote in Golang and Java/Spring Boot, deployed on Docker and orchestrated with Kubernetes, following the Frontend for Backend architectural pattern.   Also design and implement a development flow for this services, using Gitlab, the development of tools for build and deploy the services to the platform, and the fine tunning of the development, quality ensurance and production environments for IBM Cloud Private on the client's dependencies.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start">I participate in the design and development of microservices wrote in Golang and Java/Spring Boot, deployed on Docker and orchestrated with Kubernetes, following the Frontend for Backend architectural pattern.   Also design and implement a development flow for this services, using Gitlab, the development of tools for build and deploy the services to the platform, and the fine tuning of the development, staging and production environments for IBM Cloud Private on the client's dependencies.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4848"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:1px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
